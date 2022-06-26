@@ -32,3 +32,10 @@ $mobile-menu-bg-color: #e17992;
 // ------------ TRANSITION PROPS ------------
 $transition-timing: 250ms;
 $transition-function: cubic-bezier(0.4, 0, 0.2, 1);
+
+//---------------POINTS-------------------
+$mobile: 320px;
+$mobile-only: 767px;
+$tablet: 768px;    
+$tablet-only: 1199px;
+$desktop: 1200px;    
